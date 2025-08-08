@@ -16,10 +16,11 @@ A simple weather application built with **Python** and **Tkinter**, using the **
 ## 🖼️ Screenshots
 
 ### 🔹 Main UI
-![Main UI](preview of weatherapp.png)
+<img src="preview of weatherapp.png" width="300">
+
 
 ### 🔹 Result Display
-![Result](output of weatherapp.png)
+<img src="output of weatherapp.png" width="300">
 
 
 ## 🛠️ How to Run
