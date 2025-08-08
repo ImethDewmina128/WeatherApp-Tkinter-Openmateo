@@ -13,8 +13,14 @@ A simple weather application built with **Python** and **Tkinter**, using the **
 
 ## 🖼️ Preview
 
-![screenshot](preview of weatherapp.png)
-![screenshot](ooutput of weatherapp.png)
+## 🖼️ Screenshots
+
+### 🔹 Main UI
+![Main UI](preview of weatherapp.png)
+
+### 🔹 Result Display
+![Result](output of weatherapp.png)
+
 
 ## 🛠️ How to Run
 
