@@ -22,6 +22,10 @@ A simple weather application built with **Python** and **Tkinter**, using the **
 ### 🔹 Result Display
 <img src="output of weatherapp.png" width="300">
 
+### 🔹 Screen record
+![Weather app screen reord](weatherappScreenrecord.mp4)
+
+
 
 ## 🛠️ How to Run
 
